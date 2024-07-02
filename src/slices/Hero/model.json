@@ -1,0 +1,102 @@
+{
+  "id": "hero",
+  "type": "SharedSlice",
+  "name": "Hero",
+  "description": "Hero",
+  "variations": [
+    {
+      "id": "default",
+      "name": "Simple centered",
+      "docURL": "...",
+      "version": "initial",
+      "description": "Default",
+      "imageUrl": "",
+      "primary": {
+        "announcement": {
+          "type": "Text",
+          "config": {
+            "label": "announcement",
+            "placeholder": ""
+          }
+        },
+        "title": {
+          "type": "Text",
+          "config": {
+            "label": "title",
+            "placeholder": ""
+          }
+        },
+        "description": {
+          "type": "Text",
+          "config": {
+            "label": "description",
+            "placeholder": ""
+          }
+        },
+        "calltoaction": {
+          "type": "Text",
+          "config": {
+            "label": "callToAction",
+            "placeholder": ""
+          }
+        },
+        "calltoactionurl": {
+          "type": "Link",
+          "config": {
+            "label": "callToActionUrl",
+            "placeholder": "",
+            "select": null
+          }
+        }
+      },
+      "items": {}
+    },
+    {
+      "id": "splitWithImage",
+      "name": "Split with image",
+      "docURL": "...",
+      "version": "initial",
+      "description": "Default",
+      "imageUrl": "",
+      "primary": {
+        "announcement": {
+          "type": "Text",
+          "config": {
+            "label": "announcement",
+            "placeholder": ""
+          }
+        },
+        "title": {
+          "type": "Text",
+          "config": {
+            "label": "title",
+            "placeholder": ""
+          }
+        },
+        "description": {
+          "type": "Text",
+          "config": {
+            "label": "description",
+            "placeholder": ""
+          }
+        },
+        "calltoaction": {
+          "type": "Text",
+          "config": {
+            "label": "callToAction",
+            "placeholder": ""
+          }
+        },
+        "calltoactionurl": {
+          "type": "Link",
+          "config": {
+            "label": "callToActionUrl",
+            "placeholder": "",
+            "select": null
+          }
+        }
+      },
+      "items": {}
+    }
+  ]
+}

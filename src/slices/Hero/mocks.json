@@ -1,0 +1,75 @@
+[
+	{
+		"__TYPE__": "SharedSliceContent",
+		"variation": "default",
+		"primary": {
+			"title": {
+				"__TYPE__": "FieldContent",
+				"value": "composition",
+				"type": "Text"
+			},
+			"description": {
+				"__TYPE__": "FieldContent",
+				"value": "six",
+				"type": "Text"
+			},
+			"announcement": {
+				"__TYPE__": "FieldContent",
+				"value": "therefore",
+				"type": "Text"
+			},
+			"calltoaction": {
+				"__TYPE__": "FieldContent",
+				"value": "clay",
+				"type": "Text"
+			},
+			"calltoactionurl": {
+				"__TYPE__": "LinkContent",
+				"value": {
+					"__TYPE__": "ExternalLink",
+					"url": "http://google.com"
+				}
+			}
+		},
+		"items": []
+	},
+	{
+		"__TYPE__": "SharedSliceContent",
+		"variation": "splitWithImage",
+		"primary": {
+			"announcement": {
+				"__TYPE__": "FieldContent",
+				"value": "shoulder",
+				"type": "Text"
+			},
+			"title": {
+				"__TYPE__": "FieldContent",
+				"value": "gravity",
+				"type": "Text"
+			},
+			"description": {
+				"__TYPE__": "FieldContent",
+				"value": "corn",
+				"type": "Text"
+			},
+			"calltoaction": {
+				"__TYPE__": "FieldContent",
+				"value": "interior",
+				"type": "Text"
+			},
+			"calltoactionurl": {
+				"__TYPE__": "LinkContent",
+				"value": {
+					"__TYPE__": "ExternalLink",
+					"url": "https://slicemachine.dev"
+				}
+			}
+		},
+		"items": [
+			{
+				"__TYPE__": "GroupItemContent",
+				"value": []
+			}
+		]
+	}
+]
