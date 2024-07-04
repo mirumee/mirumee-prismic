@@ -1,7 +1,7 @@
-import { FeaturesSliceDefaultPrimary } from '../../../prismicio-types'
+import { FeaturesSliceDefaultPrimary } from '../../../../prismicio-types'
 import { PrismicNextImage } from '@prismicio/next'
 import { PrismicRichText } from '@prismicio/react'
-import { component } from '../utils'
+import { component } from "@/ui/utils/prismicRichText";
 
 export default function Feature(props: FeaturesSliceDefaultPrimary) {
   return (

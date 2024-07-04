@@ -1,5 +1,5 @@
 import { Content } from "@prismicio/client"
-import PricingDefault from "@/ui/Pricing/default"
+import PricingDefault from "@/ui/slices/Pricing/default"
 import { SliceComponentProps } from "@prismicio/react";
 
 /**

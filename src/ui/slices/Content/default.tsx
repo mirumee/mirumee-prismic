@@ -1,6 +1,7 @@
-import { ContentSliceDefaultPrimary } from "../../../prismicio-types";
+import { component } from "@/ui/utils/prismicRichText";
+import { ContentSliceDefaultPrimary } from "../../../../prismicio-types";
 import { PrismicRichText } from '@prismicio/react'
-import { component } from "../utils";
+
 
 
 const Content = (props: ContentSliceDefaultPrimary) => {

@@ -1,4 +1,4 @@
-import { HeroSliceDefaultPrimary } from "../../../prismicio-types";
+import { HeroSliceDefaultPrimary } from "../../../../prismicio-types";
 import { PrismicNextLink } from '@prismicio/next'
 
 const Hero = (props: HeroSliceDefaultPrimary) => {

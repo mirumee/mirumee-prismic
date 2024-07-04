@@ -1,7 +1,7 @@
 import Image from "next/image"
 import placeholder from "./placeholder.svg"
 
-import { HeroSliceSplitWithImagePrimary } from "../../../prismicio-types";
+import { HeroSliceSplitWithImagePrimary } from "../../../../prismicio-types";
 import { PrismicNextLink } from "@prismicio/next";
 
 

@@ -1,6 +1,6 @@
-import { FeaturesSliceCenteredGridPrimary } from '../../../prismicio-types'
+import { FeaturesSliceCenteredGridPrimary } from '../../../../prismicio-types'
 import { PrismicRichText } from '@prismicio/react'
-import { component } from '../utils'
+import { component } from "@/ui/utils/prismicRichText";
 
 export default function Feature(props: FeaturesSliceCenteredGridPrimary) {
   return (

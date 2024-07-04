@@ -1,8 +1,8 @@
 import { Content } from "@prismicio/client";
 import { SliceComponentProps } from "@prismicio/react";
 
-import FeatureCentered from "@/ui/Feature/centeredGrid"
-import FeatureDefault from "@/ui/Feature/withProductScreen"
+import FeatureCentered from "@/ui/slices/Feature/centeredGrid"
+import FeatureDefault from "@/ui/slices/Feature/withProductScreen"
 /**
  * Props for `Features`.
  */

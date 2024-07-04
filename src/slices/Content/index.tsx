@@ -1,5 +1,5 @@
 import { SliceComponentProps } from "@prismicio/react";
-import ContentDefault from "@/ui/Content/default"
+import ContentDefault from "@/ui/slices/Content/default"
 import { Content as PrismicContent } from "@prismicio/client";
 /**
  * Props for `Content`.

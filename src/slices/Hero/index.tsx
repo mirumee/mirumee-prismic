@@ -1,8 +1,8 @@
 import { Content } from "@prismicio/client";
 import { SliceComponentProps } from "@prismicio/react";
 
-import HeroSplit from "@/ui/Hero/splitWithImage"
-import HeroDefault from "@/ui/Hero/simpleCentered"
+import HeroSplit from "@/ui/slices/Hero/splitWithImage"
+import HeroDefault from "@/ui/slices/Hero/simpleCentered"
 
 export type HeroProps = SliceComponentProps<Content.HeroSlice>;
 

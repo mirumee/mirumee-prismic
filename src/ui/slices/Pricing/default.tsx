@@ -1,7 +1,7 @@
 import { PrismicRichText } from "@prismicio/react";
-import { PricingSliceDefault } from "../../../prismicio-types";
+import { PricingSliceDefault } from "../../../../prismicio-types";
 import { PrismicNextLink } from '@prismicio/next'
-import { component } from "../utils";
+import { component } from "@/ui/utils/prismicRichText";
 
 const Pricing = (props: PricingSliceDefault["primary"]) => {
   return (
