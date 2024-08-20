@@ -25,5 +25,5 @@ export async function middleware(request: NextRequest) {
 
 export const config = {
 	// Don’t change the URL of Next.js assets starting with _next
-  matcher: ['/((?!api|_next/static|_next/image|favicon.ico).*)'],
+  matcher: ['/((?!api|_next/static|_next/image|slice-simulator|favicon.ico).*)'],
 };
